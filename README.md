@@ -3,6 +3,7 @@
 A fun and interactive Dice Game built using React!
 This project lets users roll dice, select numbers, and track the scores.
 
+
 🚀 Features
 
   Select a number before rolling
@@ -15,6 +16,7 @@ This project lets users roll dice, select numbers, and track the scores.
 
   Styled using Styled Components
   
+  
 🧩 Tech Stack
 
   React (Frontend Framework)
@@ -22,6 +24,7 @@ This project lets users roll dice, select numbers, and track the scores.
   Vite (Build Tool)
 
   Styled Components (Styling)
+  
 
 🧠 Learning Highlights
 
@@ -30,6 +33,7 @@ This project lets users roll dice, select numbers, and track the scores.
   Improved component communication with props
   
   Practiced dynamic rendering and conditional UI updates
+  
 
 🌐 Deployment
 
