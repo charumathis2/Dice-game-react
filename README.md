@@ -37,6 +37,6 @@ This project lets users roll dice, select numbers, and track the scores.
 
 🌐 Deployment
 
-    Deployed using Vercel from GitHub for fast and seamless hosting.
+Deployed using Vercel from GitHub for fast and seamless hosting.
     
-    🔗 Live Demo - https://dice-game-react-pi.vercel.app
+🔗 Live Demo - https://dice-game-react-pi.vercel.app
